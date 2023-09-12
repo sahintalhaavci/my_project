@@ -16,4 +16,12 @@ for i in range(ksayi):
 
 if kelime == 'elma':
     print(kelimegiz)
-    
+
+elif kelime == 'hesapla':
+    print(kelimegiz)
+elif kelime == 'su':
+    print(kelimegiz)
+elif kelime == 'insan':
+    print(kelimegiz)
+elif kelime == 'inanclar':
+    print(kelimegiz)
